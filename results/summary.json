@@ -1,0 +1,43 @@
+{
+  "observation_window": [
+    2010,
+    2024
+  ],
+  "retrieved": "2026-11-06",
+  "annual_records": 45,
+  "scenario_records": 864,
+  "decomposition_2017_2024": {
+    "start": 2017,
+    "end": 2024,
+    "change_musd": 89840.20000000001,
+    "market_size_musd": 28482.80163181224,
+    "share_shift_musd": 61357.398368187765,
+    "cagr": 0.16616119712477473,
+    "share_change_pp": 2.1899729453414674
+  },
+  "benchmark": {
+    "year": 2017,
+    "sigma": 4,
+    "china_tariff": 0.25,
+    "vietnam_tariff": 0,
+    "vietnam_cost": 1,
+    "dva_share": 0.5,
+    "vietnam_share": 0.022205365211596825,
+    "china_share": 0.12357180641082006,
+    "price_index": 1.0378120230092942,
+    "real_bundle_change_pct": -3.643436592655047,
+    "vietnam_customs_gain_pct": 11.77793779853129,
+    "tariff_revenue_per_100": 2.4714361282164012,
+    "compensation_per_100": 3.7812023009294204,
+    "dva_proxy_per_100": 1.1102682605798413
+  },
+  "vietnam_2024": {
+    "us_exports_musd": 13068.3,
+    "us_imports_musd": 136317.6,
+    "us_balance_musd": -123249.3
+  },
+  "vietnam_share_2017": 0.019865606441603713,
+  "vietnam_share_2024": 0.041765335895018386,
+  "china_share_2017": 0.21592023358951626,
+  "china_share_2024": 0.13490618703742555
+}

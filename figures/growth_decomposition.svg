@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="597.6pt" height="331.2pt" viewBox="0 0 597.6 331.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 331.2
+L 597.6 331.2
+L 597.6 0
+L 0 0
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 77.688 258.336
+L 579.672 258.336
+L 579.672 59.616
+L 77.688 59.616
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.505455 258.336
+L 198.93369 258.336
+L 198.93369 204.430263
+L 100.505455 204.430263
+z
+" clip-path="url(#p1c6cb5b45f)" style="fill: #5c6470"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 279.465882 258.336
+L 377.894118 258.336
+L 377.894118 142.212741
+L 279.465882 142.212741
+z
+" clip-path="url(#p1c6cb5b45f)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 458.42631 258.336
+L 556.854545 258.336
+L 556.854545 88.307004
+L 458.42631 88.307004
+z
+" clip-path="url(#p1c6cb5b45f)" style="fill: #00765e"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m10a24047da" d="M 0 0
+L 0 3.5
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m10a24047da" x="149.719572" y="258.336" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="149.719572" y="272.934438" transform="rotate(-0 149.719572 272.934438)">U.S. import market growth</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m10a24047da" x="328.68" y="258.336" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="328.68" y="272.934438" transform="rotate(-0 328.68 272.934438)">Vietnam share shift</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m10a24047da" x="507.640428" y="258.336" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="507.640428" y="272.934438" transform="rotate(-0 507.640428 272.934438)">Total change</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <path d="M 77.688 258.336
+L 579.672 258.336
+" clip-path="url(#p1c6cb5b45f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_5">
+      <defs>
+       <path id="mc593b63b82" d="M 0 0
+L -3.5 0
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc593b63b82" x="77.688" y="258.336" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.688" y="262.134828" transform="rotate(-0 70.688 262.134828)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <path d="M 77.688 220.484571
+L 579.672 220.484571
+" clip-path="url(#p1c6cb5b45f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mc593b63b82" x="77.688" y="220.484571" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.688" y="224.2834" transform="rotate(-0 70.688 224.2834)">20</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <path d="M 77.688 182.633143
+L 579.672 182.633143
+" clip-path="url(#p1c6cb5b45f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#mc593b63b82" x="77.688" y="182.633143" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.688" y="186.431971" transform="rotate(-0 70.688 186.431971)">40</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <path d="M 77.688 144.781714
+L 579.672 144.781714
+" clip-path="url(#p1c6cb5b45f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mc593b63b82" x="77.688" y="144.781714" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.688" y="148.580542" transform="rotate(-0 70.688 148.580542)">60</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_12">
+      <path d="M 77.688 106.930286
+L 579.672 106.930286
+" clip-path="url(#p1c6cb5b45f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mc593b63b82" x="77.688" y="106.930286" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.688" y="110.729114" transform="rotate(-0 70.688 110.729114)">80</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_14">
+      <path d="M 77.688 69.078857
+L 579.672 69.078857
+" clip-path="url(#p1c6cb5b45f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#mc593b63b82" x="77.688" y="69.078857" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.688" y="72.877685" transform="rotate(-0 70.688 72.877685)">100</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #253247" x="45.198156" y="158.976" transform="rotate(-90 45.198156 158.976)">Change in nominal imports (USD billion)</text>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 77.688 258.336
+L 77.688 59.616
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 77.688 258.336
+L 579.672 258.336
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #253247" x="149.719572" y="201.023635" transform="rotate(-0 149.719572 201.023635)">28.48</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #253247" x="328.68" y="138.806112" transform="rotate(-0 328.68 138.806112)">61.36</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #253247" x="507.640428" y="84.900376" transform="rotate(-0 507.640428 84.900376)">89.84</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #253247" x="328.68" y="53.616" transform="rotate(-0 328.68 53.616)">Accounting for Vietnam's 2017-2024 export expansion</text>
+   </g>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5c6470" x="11.952" y="327.2256" transform="rotate(-0 11.952 327.2256)">Symmetric decomposition of the USD 89.84bn increase. The share component is an accounting residual, not a causal tariff estimate.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1c6cb5b45f">
+   <rect x="77.688" y="59.616" width="501.984" height="198.72"/>
+  </clipPath>
+ </defs>
+</svg>

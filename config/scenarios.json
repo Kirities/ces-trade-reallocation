@@ -1,0 +1,9 @@
+{
+  "calibration_years": [2017, 2019, 2024],
+  "elasticities": [2, 4, 6, 8],
+  "china_tariffs": [0, 0.1, 0.25],
+  "vietnam_tariffs": [0, 0.1],
+  "vietnam_cost_multipliers": [1, 1.05, 1.1, 1.2],
+  "domestic_value_added_shares": [0.25, 0.5, 0.75],
+  "benchmark": {"year": 2017, "sigma": 4, "china_tariff": 0.25, "vietnam_tariff": 0, "vietnam_cost": 1}
+}

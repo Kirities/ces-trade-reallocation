@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "python": "3.12.14",
+  "checks": {
+    "source_hash": true,
+    "complete_unique_45_rows": true,
+    "raw_finite": true,
+    "trade_balance_rounding": true,
+    "annual_share_and_rest": true,
+    "exact_decomposition": true,
+    "scenario_grid_complete": true,
+    "all_scenario_values_reconstructed": true,
+    "all_scenario_budget_identities": true,
+    "analytical_zero_gain_boundary": true,
+    "benchmark_matches_summary": true,
+    "bilingual_document_pairs": true,
+    "relative_links_resolve": true,
+    "four_png_and_svg_pairs": true
+  },
+  "broken_links": [],
+  "annual_records": 45,
+  "allocation_parameterizations": 288,
+  "scenario_records": 864,
+  "validation_scope": "Automated local consistency checks; not human review or causal validation."
+}

@@ -1,0 +1,16 @@
+# References and verification notes
+
+[简体中文](references.zh-CN.md)
+
+1. **U.S. Census Bureau.** *Trade in Goods with Vietnam.* [Annual tables](https://www.census.gov/foreign-trade/balance/c5520.html). Retrieved 6 November 2026; annual TOTAL rows for 2010-2024 are archived in `data/raw/`.
+2. **U.S. Census Bureau.** *Trade in Goods with China.* [Annual tables](https://www.census.gov/foreign-trade/balance/c5700.html). Same extraction window and vintage.
+3. **U.S. Census Bureau.** *Trade in Goods with Total, All Countries, Not Seasonally Adjusted.* [Annual tables](https://www.census.gov/foreign-trade/balance/c0015.html). Denominator for import shares; goods only.
+4. **Office of the United States Trade Representative.** *China Section 301-Tariff Actions and Exclusion Process.* [Policy archive](https://ustr.gov/issue-areas/enforcement/section-301-investigations/tariff-actions). Used for the policy setting, not to construct a product-level tariff series.
+5. **Choi, Bo-Young, and Thuy Linh Nguyen.** 2023. “Trade diversion effects of the US-China trade war on Vietnam.” *Pacific Economic Review* 28(4): 570-588. [doi:10.1111/1468-0106.12435](https://doi.org/10.1111/1468-0106.12435). Metadata and abstract verified against the publisher and [author-affiliated university record](https://research.knu.ac.kr/en/publications/trade-diversion-effects-of-the-uschina-trade-war-on-vietnam/). No full-text coefficient is reproduced.
+6. **Dang, Alicia, Kala Krishna, and Yingyan Zhao.** 2023. “Winners and Losers from the U.S.-China Trade War.” NBER Working Paper 31922. [doi:10.3386/w31922](https://doi.org/10.3386/w31922). [NBER record](https://www.nber.org/papers/w31922). Used as related research at the abstract level; no replication claim.
+7. **Armington, Paul S.** 1969. “A Theory of Demand for Products Distinguished by Place of Production.” *IMF Staff Papers* 16(1): 159-178. [IMF record](https://www.elibrary.imf.org/view/journals/024/1969/001/article-A007-en.xml). Origin differentiation motivates the model; the exact normalization and equations implemented here are explicitly derived in the methods.
+8. **World Bank.** 2024. *Viet Nam 2045: Trading Up in a Changing World—Pathways to a High-Income Future.* [Report landing page](https://www.worldbank.org/en/country/vietnam/publication/viet-nam-2045-trading-up-in-a-changing-world). Used for qualitative upgrading priorities; no new firm-level estimate is extracted.
+9. **United Nations, Department of Economic and Social Affairs.** *Goal 17: Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development.* [Official targets](https://sdgs.un.org/goals/goal17). Used for the normative cooperation framework, not an estimated outcome measure.
+10. **Groningen Growth and Development Centre.** *Penn World Table 10.01.* [Official release page](https://www.rug.nl/ggdc/productivity/pwt/pwt-releases/pwt1001?lang=en). Verification reference for the withdrawn capital-stock comparison; no PWT data are used in the numerical analysis.
+
+Links and metadata were checked on 6 November 2026. Verification depth is stated above; access to an abstract is not presented as a full-text review. The bibliography preserves attribution to external research without importing unsupported claims from the supplied PDF.

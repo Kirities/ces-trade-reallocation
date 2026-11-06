@@ -1,0 +1,12 @@
+{
+  "retrieved": "2026-11-06",
+  "source": "U.S. Census Bureau, Trade in Goods by Country",
+  "method": "Annual TOTAL rows read from rendered public HTML tables; transported as a CSV extract, not a byte-for-byte HTML archive.",
+  "units": "Nominal million USD, goods, not seasonally adjusted",
+  "urls": {
+    "Vietnam": "https://www.census.gov/foreign-trade/balance/c5520.html",
+    "China": "https://www.census.gov/foreign-trade/balance/c5700.html",
+    "World": "https://www.census.gov/foreign-trade/balance/c0015.html"
+  },
+  "sha256": "8f57bbbdd8c16e9da07bf81f1c212c66a46cd78dbb093a3f95f38713f56fca0b"
+}
