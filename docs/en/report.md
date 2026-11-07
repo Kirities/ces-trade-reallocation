@@ -1,6 +1,8 @@
-# Trade Reallocation and Domestic Value Capture in Vietnam
+# CES-Based Analysis of Tariff Shocks and Trade Reallocation
 
 [中文版本](../zh-CN/report.md) · [Methods](methods.md) · [Evidence audit](evidence-audit.md)
+
+**Evidence from Vietnam, 2010-2024**
 
 ## Abstract
 

@@ -1,8 +1,8 @@
-# Trade Reallocation and Domestic Value Capture in Vietnam
+# CES-Based Analysis of Tariff Shocks and Trade Reallocation
 
 [简体中文](README.zh-CN.md)
 
-**U.S.-China tariff tensions, Vietnam's export expansion, and the conditions for durable upgrading**
+**Evidence from Vietnam, 2010-2024**
 
 This research report combines a verified 2010-2024 trade series, a symmetric growth decomposition, and a transparent three-origin import-demand model. It examines how Vietnam can gain market access during trade fragmentation while remaining exposed to production costs, policy reversal, and limited domestic value capture.
 

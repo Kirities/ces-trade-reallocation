@@ -1,6 +1,8 @@
-# 越南的贸易重配与国内价值获取
+# 基于 CES 需求系统的关税冲击与贸易重配分析
 
 [English version](../en/report.md) · [方法](methods.md) · [证据审计](evidence-audit.md)
+
+**越南案例，2010—2024 年**
 
 ## 摘要
 
